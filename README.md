@@ -1,0 +1,2 @@
+# Artificial-inteligence
+python
